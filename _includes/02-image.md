@@ -1,0 +1,1 @@
+![Image of Hirano Shrine](https://res.cloudinary.com/jnto/image/upload/w_640,h_360,c_fill,f_auto,fl_lossy,q_auto/v1/media/filer_public/12/95/12956a86-3a06-443e-8753-d71bd141bc32/virtual_background_thumb_-_hirano_shrine_kyoto_fxkoxx)
