@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* __Book Scavenger__
+  * _Book Scavenger_
+  * _The Unbreakable Code_
+  * _The Alcatraz Escape_ 
